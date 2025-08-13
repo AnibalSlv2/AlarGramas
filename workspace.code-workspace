@@ -1,0 +1,11 @@
+{
+	"folders": [],
+	"settings": {
+		"vscode-pets.petType": "fox",
+		"vscode-pets.position": "explorer",
+		"vscode-pets.theme": "beach",
+		"vscode-pets.throwBallWithMouse": true,
+		"dart.enableServerSnippets": false,
+		"vscode-pets.petSize": "large"
+	}
+}
