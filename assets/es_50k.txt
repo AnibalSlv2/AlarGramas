@@ -2390,7 +2390,7 @@ pelota 11560
 decírselo 11559
 clara 11557
 honesto 11554
-cola 11551
+cola
 bola 11551
 encontraremos 11546
 llevarte 11533
